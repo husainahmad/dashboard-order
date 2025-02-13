@@ -38,8 +38,10 @@ vite.generated.ts
 tsconfig.json
 package.json
 package-lock.json
+.lock
 
 src/main/bundles/
 
 ### VS Code ###
 .vscode/
+
